@@ -1,0 +1,5 @@
+/save_model
+__pycache__/
+*.pkl
+*.json
+*.txt
